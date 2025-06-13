@@ -1,0 +1,6 @@
+# Ignore large or generated files
+Capstone03/*.pkl
+Capstone03/*.csv
+*.ipynb_checkpoints/
+
+
